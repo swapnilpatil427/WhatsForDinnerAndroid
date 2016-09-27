@@ -37,6 +37,7 @@
         <activity android:name=".MealsActivity" />
         <activity android:name=".ReceipeActivity" />
         <activity android:name=".GroceryShoppingActivity" />
+        <activity android:name=".SimpleActivity" />
         <activity android:name=".NutritionGoalsActivity"></activity>
     </application>
 
